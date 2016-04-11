@@ -57,7 +57,7 @@ Scenario-10. Data barang non-komputer kembar
 - Then	   : the respone should contain "Data berhasil diinputkan"
 
 ====================================================================================================================
-					Excaption Flow 
+					Exception Flow 
 ====================================================================================================================
 3) Data barang komputer tidak sesuai
 - Scenario : 3) Data barang komputer tidak sesuai prosedur

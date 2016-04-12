@@ -1,0 +1,25 @@
+	  				HISTORY
+===========================================================================================
+As a    : Petugas Lab
+I nedd 	: Fiture Inventaris Lab
+So That : saya dapat melihat rekam barang
+
+============================================================================================
+					Scenario 
+============================================================================================
+Scenario-1. 	 	-->(Normal Flow)
+Scenario-2.  	 	-->(Normal Flow)
+Scenario-3.  	 	-->(Exception Flow)
+Scenario-4. 	 	-->(Exception Flow)
+Scenario-5. 	 	-->(Exception Flow)
+
+1)
+- Deskripsi :
+- Scenario  :
+- Given	    :
+- When	    :
+- Then	    :
+	AND  
+	AND 
+- Then	    :
+Alternative Flow --> Pada fitur ini tidak ditemukan alternative flow
